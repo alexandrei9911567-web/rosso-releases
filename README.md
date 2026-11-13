@@ -19,7 +19,10 @@ Always the newest version:
 1. On the TV, install **Downloader** from the Play Store.
 2. *Settings → Apps → Security & restrictions → Unknown sources*: allow **Downloader**.
 3. In Downloader, enter the address of the Android file above and install it.
-4. Later versions arrive by themselves: when Rosso opens, Android asks once to install the update.
+4. Later versions arrive by themselves: when Rosso opens it shows "A new version is available";
+   choose **Update** and confirm Android's question.
+5. Optional, so that Rosso opens again by itself after updating: *Settings → Apps → Special app access →
+   Display over other apps* → allow **Rosso**.
 
 ### Samsung
 Developer mode on the TV and a PC on the same network: both files are installed with Tizen's `sdb`
